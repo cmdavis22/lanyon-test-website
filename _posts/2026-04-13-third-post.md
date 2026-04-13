@@ -3,4 +3,4 @@ layout: post
 title: Third post
 ---
 
-![description](images/RandomGraphic4.jpg "Description")
+![timeline]({{ "/images/RandomGraphic4.jpg" | relative_url }} "A timeline")
