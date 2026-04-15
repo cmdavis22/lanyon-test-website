@@ -1,7 +1,7 @@
 # Setup
-title:               (Title) #Wisconsin Autism Data Science Initiative
+title:               (Title)
 tagline:             #'(subtitle)'
-description:         '(short description)' #'ADSI at UW-Madison'
+description:         '(short description)'
 url:                 https://cmdavis22.github.io
 baseurl:             '/lanyon-test-website'
 paginate:            5
