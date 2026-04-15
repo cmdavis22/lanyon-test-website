@@ -1,7 +1,7 @@
 # Setup
-title:               (Title)
-tagline:             '(subtitle)'
-description:         '(Short description of project)'
+title:               (Title) #Wisconsin Autism Data Science Initiative
+tagline:             #'(subtitle)'
+description:         '(short description)' #'ADSI at UW-Madison'
 url:                 https://cmdavis22.github.io
 baseurl:             '/lanyon-test-website'
 paginate:            5
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              #Mark Otto
+  url:               #https://twitter.com/mdo
+  email:             #markdotto@gmail.com
 
 # Gems
 plugins:

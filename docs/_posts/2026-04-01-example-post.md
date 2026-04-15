@@ -11,3 +11,5 @@ title: Example Post
 ![venn diagram]({{ "/images/RandomGraphic5.png" | relative_url }} "A venn diagram about data science")
 
 (Maybe more description)
+
+![venn diagram]({{ "/images/RandomGraphic5.png" | relative_url }} "A venn diagram about data science")
